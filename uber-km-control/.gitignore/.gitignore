@@ -1,0 +1,15 @@
+__pycache__/
+data/registros.csv
+.env
+
+
+## Legaenda do .gitignore 
+
+## __pycache__/ =>  cache gerado automaticamente pelo Python
+## data/registros.csv =>  arquivo de dados, não é código fonte. - dados reais (nunca suba dados operacionais)
+## .env =>  arquivo de variáveis de ambiente  - variáveis sensíveis (senhas, tokens no futuro)
+
+## =>  Arquivos e pastas a serem ignorados pelo Git
+## =>  Git é memória histórica
+## =>  .gitignore é filtro
+
